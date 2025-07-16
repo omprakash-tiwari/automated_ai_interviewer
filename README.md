@@ -30,20 +30,20 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
 5. Access the Application: Open your browser and go to http://localhost:3000 to access the application.
 
 ## Technologies Used
-Next.js: A React framework for building server-side rendered and static web applications.
-Gemini API: Provides an interface for accessing the AI interview functionalities.
-PostgreSQL: A powerful, open-source object-relational database system.
-Neon Serverless: A serverless deployment for PostgreSQL, offering scalability and ease of use.
-Drizzle ORM: An ORM that makes database interactions simpler and more intuitive.
+1. Next.js: A React framework for building server-side rendered and static web applications.
+2. Gemini API: Provides an interface for accessing the AI interview functionalities.
+3. PostgreSQL: A powerful, open-source object-relational database system.
+4. Neon Serverless: A serverless deployment for PostgreSQL, offering scalability and ease of use.
+5. Drizzle ORM: An ORM that makes database interactions simpler and more intuitive.
 
 ## Usage
 To use the AI-Powered Mock Interview Platform, follow these guidelines:
 
-Create an Account: Sign up to start your mock interview sessions.
-Choose Interview Type: Select the type of interview (e.g., technical, behavioral) and job role
-Start Interview: Begin your mock interview and respond to the AI-generated questions.
-Receive Feedback: After completing the interview, get detailed feedback and insights to improve.
-Review Recent Interviews: Access your most recent interviews directly from the home page for quick review and continued improvement.
+1. Create an Account: Sign up to start your mock interview sessions.
+2. Choose Interview Type: Select the type of interview (e.g., technical, behavioral) and job role
+3. Start Interview: Begin your mock interview and respond to the AI-generated questions.
+4. Receive Feedback: After completing the interview, get detailed feedback and insights to improve.
+5. Review Recent Interviews: Access your most recent interviews directly from the home page for quick review and continued improvement.
 
 ## Feedback
-If you have any feedback, please reach me at omprakashtiwari1515@gmail.com or connect with me on LinkedIn.
+If you have any feedback, please reach me at omprakashtiwari1515@gmail.com
